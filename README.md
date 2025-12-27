@@ -1,4 +1,4 @@
-## Hey there 👋
+**Hey there** 👋
 
 <!--
 **benjaminCMD/benjaminCMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,8 @@ I'm Benjamin, a software engineer based in Puerto Rico.
 I build applications just for fun. When an idea comes to mind, I'll build it.
 
 My main framework is Flutter, but I'm also learning React. I also know other languages such as python, C, C++, SQL, and javascript.  
+
+Fun Facts:
+* Love tinkering with my computer's hardware
+* Favorites: Monster Hunter Rise (Game), Re:Zero (Anime), Flowers for Algernon (Novel)
+* Hobbies: Gaming, Anime, Linux Ricing, Distro Hopping, and Homelabbing
