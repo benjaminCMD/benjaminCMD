@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Benjamin, a software engineer based in Puerto Rico.
+I'm [Benjamin](https://www.linkedin.com/in/benjamin-diaz-espada), a software engineer based in Puerto Rico.
 
-I build applications just for fun. When an idea comes to mind, I'll build it.
+I build applications just for fun. When an idea comes to mind, I'll build it. From the projects I've made so far, [upr housing](https://github.com/benjaminCMD/upr-housing) is my favorite.
 
 My main framework is Flutter, but I'm also learning React. I also know other languages such as python, C, C++, SQL, and javascript.  
 
